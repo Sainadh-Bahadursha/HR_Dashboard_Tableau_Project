@@ -5,4 +5,4 @@
 
  Chatgpt code is available in "code_to_generate_faker_data.py". (It was generated in my Chat gpt using the provided prompts. It may be different from Data with Baraa Code).
 
- But for Tableau dashboard, I am using "HumanResources.csv" file, which was given in downloadable data file -  "Tableau-HR-Project-Materials.zip". (Refer "DOWNLOAD_DATA_FILES_FROM_HERE.md")
+ But for Tableau dashboard, I am using "HumanResources.csv" file, which was given in downloadable data file -  "Tableau-HR-Project-Materials.zip". (Refer "DOWNLOAD_REQUIRED_DATA_FILES_FROM_HERE.md" file)
